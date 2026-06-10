@@ -1,4 +1,4 @@
-<h2 align="left">Ola! Meu nome e Guilherme eu sou desenvolvedor backend</h2>
+<h2 align="left">Ola! Meu nome e Guilherme eu sou desenvolvedor Full Stack</h2>
 
 ###
 
@@ -57,4 +57,3 @@
 <img src="https://raw.githubusercontent.com/Guilherme-devbr/Guilherme-devbr/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
